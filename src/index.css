@@ -1,0 +1,107 @@
+body {
+  margin: 0;
+}
+
+footer {
+  position: absolute;
+  text-align: center;
+  bottom: 0;
+  width: 100%;
+  height: 2.5rem;
+}
+
+footer p {
+  color: grey;
+}
+
+header h1 {
+  color: #0E8388;
+  font-family: "McLaren", cursive;
+  font-weight: 9000;
+  font-size: 20px;
+}
+
+.headingText {
+  padding-left: 6px;
+  padding-right: 6px;
+  display: inline;
+}
+
+.header-icon {
+  width: 40px;
+  margin-right: 10px;
+  animation-name: icon-spin;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+
+@keyframes icon-spin {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+
+.top-window {
+  background-color: blue(255, 6%, 25%);
+}
+
+.window {
+  height: 50vh;
+  display: flex;
+}
+
+.editor-div {
+  flex-grow: 1;
+  flex-basis: 0;
+  display: flex;
+  flex-direction: column;
+  padding: 0.5rem;
+  /* background-color: hsl(225, 6%, 25%); */
+}
+
+.editor-header {
+  display: flex;
+  justify-content: space-between;
+  background-color: #0E8388;
+  color: white;
+  padding: 10px;
+  border-top-right-radius: 0.5rem;
+  border-top-left-radius: 0.5rem;
+}
+
+.CodeMirror {
+  height: 100% !important;
+}
+
+.code-mirror-wrapper {
+  flex-grow: 1;
+  border-bottom-right-radius: 0.5rem;
+  border-bottom-left-radius: 0.5rem;
+  overflow: hidden;
+}
+
+.editor-div.collapsed {
+  flex-grow: 0;
+}
+
+.editor-div.collapsed .CodeMirror-scroll {
+  position: absolute;
+  overflow: hidden !important;
+}
+
+.expand-collapse-btn {
+  margin-left: 0.5rem;
+  background: none;
+  border: none;
+  color: white;
+  cursor: pointer;
+}
+
+.theme-dropdown {
+  margin-left: 10vw;
+}
