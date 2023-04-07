@@ -20,7 +20,7 @@ To run Codescape locally, follow these steps:
 
 4. Run the development server using `npm start`.
 
-5. Open `http://localhost:3000` in your web browser to view the app
+5. Open `http://localhost:3000` in your web browser to view the app.
 
 
 ### Get Involved
