@@ -7,7 +7,14 @@ Online Code Editor for Web Development
 ![waves](https://user-images.githubusercontent.com/60046892/230551122-7f7f5e1c-d525-48bd-b4f3-1b4ee1aac960.JPG)
 
 
-### Tech Stacks Used:
+### Installation
+To run Codescape locally, follow these steps:
+
+Clone this repository using git clone.
+Navigate to the project directory using cd codescape.
+Install dependencies using `npm install`.
+Run the development server using `npm start`.
+Open `http://localhost:3000` in your web browser to view the app
 
 
 
