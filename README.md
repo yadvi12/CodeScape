@@ -15,7 +15,7 @@ Online Code Editor for Web Development
 
 ### Get Involved
 
-*  Read [Community Guidelines](<https://github.com/yadvi12/Diabetx/blob/main/CONTRIBUTING.md>) for all
+*  Read [Community Guidelines](<https://github.com/yadvi12/CodeScape/blob/main/CONTRIBUTING.md>) for all
    kinds of ways to contribute to and interact with the project,
    including how to submit bug reports and
    code to CodeScape.
