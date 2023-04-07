@@ -3,18 +3,18 @@
 
 Online Code Editor for Web Development 
 
-Codescape is an online code editor that allows users to write, edit, and run HTML, CSS, and JavaScript code in a web browser. It provides a simple and intuitive interface for developers and coding enthusiasts.
+CodeScape is an online code editor that allows users to write, edit, and run HTML, CSS, and JavaScript code in a web browser. It provides a simple and intuitive interface for developers and coding enthusiasts.
 
 
 ![waves](https://user-images.githubusercontent.com/60046892/230551122-7f7f5e1c-d525-48bd-b4f3-1b4ee1aac960.JPG)
 
 
 ### Installation
-To run Codescape locally, follow these steps:
+To run CodeScape locally, follow these steps:
 
 1. Clone this repository using git clone.
 
-2. Navigate to the project directory using cd codescape.
+2. Navigate to the project directory using `cd CodeScape`.
 
 3. Install dependencies using `npm install`.
 
