@@ -1,7 +1,7 @@
 # CodeScape
 Online Code Editor for Web Development
 
-![](waves.JPEG)
+![](waves.JPG)
 
 
 ### Tech Stacks Used:
