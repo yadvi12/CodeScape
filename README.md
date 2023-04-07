@@ -2,7 +2,7 @@
 Online Code Editor for Web Development
 
 
-![](waves.JPG)
+![waves](https://user-images.githubusercontent.com/60046892/230551122-7f7f5e1c-d525-48bd-b4f3-1b4ee1aac960.JPG)
 
 
 ### Tech Stacks Used:
